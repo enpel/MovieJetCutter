@@ -93,6 +93,14 @@ sudo apt-get install ffmpeg
 
 3. GUIを使用して動画ファイルを選択し、処理を行います。
 
+![スクリーンショット 2024-07-30 130830](https://github.com/user-attachments/assets/7dffc6e6-bddc-4a75-94e0-c270ded99fef)
+
+- Select Vieo Fileを選択してジェットカットする動画を指定します。
+- ジェットカットする際に評価する音声トラックを選択します。
+![スクリーンショット 2024-07-30 130850](https://github.com/user-attachments/assets/031b110d-5ea9-4fb3-916f-1071a2d8447f)
+- 実行します。
+
+
 ## ライセンス
 
 このプロジェクトはMITライセンスのもとでライセンスされています。詳細は[LICENSE](LICENSE)ファイルを参照してください。
