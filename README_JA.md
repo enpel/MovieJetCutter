@@ -111,3 +111,5 @@ sudo apt-get install ffmpeg
 - [pydub](https://github.com/jiaaro/pydub)
 - [SpeechRecognition](https://github.com/Uberi/speech_recognition)
 - [FFmpeg](https://ffmpeg.org/)
+- [ChatGPT](https://chatgpt.com/)
+- 
